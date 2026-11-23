@@ -82,7 +82,6 @@ The model follows a **star schema**:
 - **Fact table:** `Fact_Visits`
 - **Dimensions:** `Dim_Date`, `Dim_State` (with annual revenue target), `Dim_Branch`, `Dim_Department`
 
-![Data model](screenshots/data-model.png)
 
 ---
 
